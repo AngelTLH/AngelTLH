@@ -1,4 +1,4 @@
-# Matías Valenzuela — Ingeniería Estadística (estudiante)
+# Angel Llanos Herrera — Ingeniería Estadística (estudiante)
 
 **R | Python | RShiny/Quarto**
 
@@ -6,8 +6,9 @@
 
 ## 👋 Sobre mí
 
-- Estudiante de **Ingeniería Estadística (penúltimo año)** — USACH ➜ UCM.  
-- Interés en **fundamentos de la estadística** y **ecuaciones diferenciales estocásticas**.  
+- Estudiante de **Ingeniería Estadística (penúltimo año)** — Universidad Católica del Maule.  
+- Interés en **modelos de regresión y clasificación**, **Machine Learning y Redes Neuronales**.
+- Interés en **x**, **x**. 
 - Enfoque en **reproducibilidad** (Quarto/Markdown) y **prototipado ágil** (Colab/Shiny).
 
 ---
@@ -27,20 +28,18 @@
 
 ## 🎓 Logros
 
-- **Ayudante — Inferencia Estadística (USACH)** · 1 semestre  
-- **Ayudante — Inferencia Estadística (UCM)** · 1 semestre  
-- **Olimpiadas:** Astronomía y Astronáutica (1er lugar nacional 2018 y 2014) · Física (nacional 2017)
+- **Ayudante — Control Estadístico de Procesos** · 1 semestre
 
 ---
 
 ## 📫 Contacto
 
-- **Email:** mavn060@gmail.com
+- **Email:** angel.llanos@alumnos.ucm.cl
 
 ---
 
 ## 📈 Estadíticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MValenzuelaN&layout=compact&langs_count=6&hide=jupyter%20notebook,html,css&theme=tokyonight&cache_seconds=21600&v=2 "Lenguajes más usados")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelTLH&layout=compact&langs_count=6&hide=jupyter%20notebook,html,css&theme=tokyonight&cache_seconds=21600&v=2 "Lenguajes más usados")
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MValenzuelaN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=21600&v=2 "Estadísticas generales")
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelTLH&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=21600&v=2 "Estadísticas generales")
