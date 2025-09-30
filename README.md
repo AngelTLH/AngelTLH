@@ -29,7 +29,7 @@
 ## 🎓 Logros
 
 - **Ayudante — Control Estadístico de Procesos** · 1 semestre
-
+- **XLVII Jornadas Nacionales de Estadística - Octubre 2024** · Sociedad Chilena de Estadística (SOCHE) · Exposición de Póster; Análisis de la Variación de la Superficie de Lago Caburgua mediante Imágenes Satelitales y algoritmos de Clustering. Valdivia, Chile.
 ---
 
 ## 📫 Contacto
