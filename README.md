@@ -9,7 +9,7 @@
 - Estudiante de **Ingeniería Estadística (penúltimo año)** — Universidad Católica del Maule.  
 - Interés en **modelos de regresión y clasificación**, **Machine Learning y Redes Neuronales**.
 - Interés en **x**, **x**. 
-- Enfoque en **reproducibilidad** (Quarto/Markdown) y **prototipado ágil** (Colab/Shiny).
+- Enfoque en **reproducibilidad** y **prototipado ágil** (Colab/Shiny/Markdown).
 
 ---
 
